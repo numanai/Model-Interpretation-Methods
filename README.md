@@ -9,4 +9,4 @@ In this project you'll use various methods to interpret different types of machi
     - Permutation Method
     - SHAP Values
 
-Let's get started.You can read the notes for this project on this [link](https://github.com/numanai/ML-model-for-Medical-Treatment/blob/master/AI%20for%20Medicine.pdf)
+Let's get started.You can read the notes for the theoretical background required for this project: [link](https://github.com/numanai/Model-Interpretation-Methods/blob/master/Interpret%20AI%20Models.pdf)
